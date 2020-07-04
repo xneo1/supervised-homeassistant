@@ -68,7 +68,7 @@ while [[ $# -gt 0 ]]; do
     shift
 done
 
-PREFIX=${PREFIX:-/srv/dev-disk-by-label-vagelisdata/containers/homeassistant}
+PREFIX=${PREFIX:-/sharedfolders/containers/homeassistant}
 SYSCONFDIR=${SYSCONFDIR:-/etc}
 DATA_SHARE=${DATA_SHARE:-$PREFIX/share/hassio}
 CONFIG=$SYSCONFDIR/hassio.json
