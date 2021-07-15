@@ -1,2 +1,2 @@
 # supervised-homeassistant
-Supervised homeassistant installtion
+Supervised homeassistant installation
